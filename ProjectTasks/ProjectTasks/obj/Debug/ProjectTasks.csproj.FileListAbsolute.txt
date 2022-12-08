@@ -1,0 +1,7 @@
+D:\C#\Projects\Homework\ProjectTasks\ProjectTasks\bin\Debug\ProjectTasks.exe.config
+D:\C#\Projects\Homework\ProjectTasks\ProjectTasks\bin\Debug\ProjectTasks.exe
+D:\C#\Projects\Homework\ProjectTasks\ProjectTasks\bin\Debug\ProjectTasks.pdb
+D:\C#\Projects\Homework\ProjectTasks\ProjectTasks\obj\Debug\ProjectTasks.csprojAssemblyReference.cache
+D:\C#\Projects\Homework\ProjectTasks\ProjectTasks\obj\Debug\ProjectTasks.csproj.CoreCompileInputs.cache
+D:\C#\Projects\Homework\ProjectTasks\ProjectTasks\obj\Debug\ProjectTasks.exe
+D:\C#\Projects\Homework\ProjectTasks\ProjectTasks\obj\Debug\ProjectTasks.pdb
