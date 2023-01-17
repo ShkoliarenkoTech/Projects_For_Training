@@ -1,3 +1,3 @@
 # Projects_For_Training
 
-### Repository been created for trying different code, creating projects and implement interesting stuff ###
+### Repository has been created for trying different code, creating projects and implement interesting stuff ###
