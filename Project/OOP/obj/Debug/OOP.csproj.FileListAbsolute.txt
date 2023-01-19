@@ -1,0 +1,7 @@
+D:\GitHub\Projects\Projects_For_Training\Project\OOP\bin\Debug\OOP.exe.config
+D:\GitHub\Projects\Projects_For_Training\Project\OOP\bin\Debug\OOP.exe
+D:\GitHub\Projects\Projects_For_Training\Project\OOP\bin\Debug\OOP.pdb
+D:\GitHub\Projects\Projects_For_Training\Project\OOP\obj\Debug\OOP.csprojAssemblyReference.cache
+D:\GitHub\Projects\Projects_For_Training\Project\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+D:\GitHub\Projects\Projects_For_Training\Project\OOP\obj\Debug\OOP.exe
+D:\GitHub\Projects\Projects_For_Training\Project\OOP\obj\Debug\OOP.pdb

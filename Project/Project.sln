@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursion", "..\..\..\..\C#
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteAnElement", "..\..\..\..\C#\Projects\Homework\CodeTime\ConsoleApp1\DeleteAnElement.csproj", "{D1402F30-E4E6-45D8-8D0D-2E83AE51D053}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP", "OOP\OOP.csproj", "{AD3489EA-B8A5-4B74-BB54-AE969FD07502}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{D1402F30-E4E6-45D8-8D0D-2E83AE51D053}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1402F30-E4E6-45D8-8D0D-2E83AE51D053}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1402F30-E4E6-45D8-8D0D-2E83AE51D053}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD3489EA-B8A5-4B74-BB54-AE969FD07502}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD3489EA-B8A5-4B74-BB54-AE969FD07502}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD3489EA-B8A5-4B74-BB54-AE969FD07502}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD3489EA-B8A5-4B74-BB54-AE969FD07502}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,7 @@
+D:\GitHub\Projects\Projects_For_Training\Project\Project\bin\Debug\Project.exe.config
+D:\GitHub\Projects\Projects_For_Training\Project\Project\bin\Debug\Project.exe
+D:\GitHub\Projects\Projects_For_Training\Project\Project\bin\Debug\Project.pdb
+D:\GitHub\Projects\Projects_For_Training\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+D:\GitHub\Projects\Projects_For_Training\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\GitHub\Projects\Projects_For_Training\Project\Project\obj\Debug\Project.exe
+D:\GitHub\Projects\Projects_For_Training\Project\Project\obj\Debug\Project.pdb
