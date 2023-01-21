@@ -1,0 +1,7 @@
+D:\GitHub\Projects\Projects_For_Training\Project\CoffeeGrinder\bin\Debug\CoffeeGrinder.exe.config
+D:\GitHub\Projects\Projects_For_Training\Project\CoffeeGrinder\bin\Debug\CoffeeGrinder.exe
+D:\GitHub\Projects\Projects_For_Training\Project\CoffeeGrinder\bin\Debug\CoffeeGrinder.pdb
+D:\GitHub\Projects\Projects_For_Training\Project\CoffeeGrinder\obj\Debug\CoffeeGrinder.csprojAssemblyReference.cache
+D:\GitHub\Projects\Projects_For_Training\Project\CoffeeGrinder\obj\Debug\CoffeeGrinder.csproj.CoreCompileInputs.cache
+D:\GitHub\Projects\Projects_For_Training\Project\CoffeeGrinder\obj\Debug\CoffeeGrinder.exe
+D:\GitHub\Projects\Projects_For_Training\Project\CoffeeGrinder\obj\Debug\CoffeeGrinder.pdb

@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteAnElement", "..\..\..
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP", "OOP\OOP.csproj", "{AD3489EA-B8A5-4B74-BB54-AE969FD07502}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeGrinder", "CoffeeGrinder\CoffeeGrinder.csproj", "{85E09B1A-0DDD-4A01-A909-FE22A4B281FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{AD3489EA-B8A5-4B74-BB54-AE969FD07502}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD3489EA-B8A5-4B74-BB54-AE969FD07502}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD3489EA-B8A5-4B74-BB54-AE969FD07502}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85E09B1A-0DDD-4A01-A909-FE22A4B281FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85E09B1A-0DDD-4A01-A909-FE22A4B281FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85E09B1A-0DDD-4A01-A909-FE22A4B281FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85E09B1A-0DDD-4A01-A909-FE22A4B281FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
