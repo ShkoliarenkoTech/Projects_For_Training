@@ -1,0 +1,7 @@
+D:\GitHub\Projects\Projects_For_Training\Project\Static methods and class fields\bin\Debug\Static methods and class fields.exe.config
+D:\GitHub\Projects\Projects_For_Training\Project\Static methods and class fields\bin\Debug\Static methods and class fields.exe
+D:\GitHub\Projects\Projects_For_Training\Project\Static methods and class fields\bin\Debug\Static methods and class fields.pdb
+D:\GitHub\Projects\Projects_For_Training\Project\Static methods and class fields\obj\Debug\Static methods and class fields.csprojAssemblyReference.cache
+D:\GitHub\Projects\Projects_For_Training\Project\Static methods and class fields\obj\Debug\Static methods and class fields.csproj.CoreCompileInputs.cache
+D:\GitHub\Projects\Projects_For_Training\Project\Static methods and class fields\obj\Debug\Static methods and class fields.exe
+D:\GitHub\Projects\Projects_For_Training\Project\Static methods and class fields\obj\Debug\Static methods and class fields.pdb
