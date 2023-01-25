@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeGrinder", "CoffeeGrin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Static methods and class fields", "Static methods and class fields\Static methods and class fields.csproj", "{DEA6AC7B-A595-474D-A38C-8CF04D7C2989}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Words base, as, is", "Words base, as, is\Words base, as, is.csproj", "{F67AD8EB-B4DF-4B65-9F5F-FCCB83C1B4B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{DEA6AC7B-A595-474D-A38C-8CF04D7C2989}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DEA6AC7B-A595-474D-A38C-8CF04D7C2989}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DEA6AC7B-A595-474D-A38C-8CF04D7C2989}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F67AD8EB-B4DF-4B65-9F5F-FCCB83C1B4B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F67AD8EB-B4DF-4B65-9F5F-FCCB83C1B4B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F67AD8EB-B4DF-4B65-9F5F-FCCB83C1B4B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F67AD8EB-B4DF-4B65-9F5F-FCCB83C1B4B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

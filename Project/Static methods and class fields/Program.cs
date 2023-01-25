@@ -10,9 +10,11 @@ namespace Static_methods_and_class_fields
    
     class Count
     {
+
+
         public Count()
         {
-            counter++;
+        counter++;
         }
 
         private static int counter;

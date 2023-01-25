@@ -1,0 +1,7 @@
+D:\GitHub\Projects\Projects_For_Training\Project\Words base, as, is\bin\Debug\Words base, as, is.exe.config
+D:\GitHub\Projects\Projects_For_Training\Project\Words base, as, is\bin\Debug\Words base, as, is.exe
+D:\GitHub\Projects\Projects_For_Training\Project\Words base, as, is\bin\Debug\Words base, as, is.pdb
+D:\GitHub\Projects\Projects_For_Training\Project\Words base, as, is\obj\Debug\Words base, as, is.csprojAssemblyReference.cache
+D:\GitHub\Projects\Projects_For_Training\Project\Words base, as, is\obj\Debug\Words base, as, is.csproj.CoreCompileInputs.cache
+D:\GitHub\Projects\Projects_For_Training\Project\Words base, as, is\obj\Debug\Words base, as, is.exe
+D:\GitHub\Projects\Projects_For_Training\Project\Words base, as, is\obj\Debug\Words base, as, is.pdb
