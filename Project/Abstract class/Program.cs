@@ -11,15 +11,23 @@ namespace Abstract_class
     {
         public abstract void Shoot();
 
-        public object GetInfo(Gun gun)
+        public void GetInfo()
         {
-            return gun.GetType();
+            Console.WriteLine(GetType().Name);
         }
     }
 
-    class Person
+    class Player
     {
-        private int health = 5;
+        public void Shoot(Gun gun)
+        {
+            gun.Shoot();
+        }
+
+        public void ShowInfo(Gun gun)
+        {
+            gun.GetInfo();
+        }
 
     }
 
@@ -52,9 +60,15 @@ namespace Abstract_class
     {
         static void Main(string[] args)
         {
-            Person person = new Person();
+            Player player = new Player();
 
-            rifle rifle = new rifle();
+            Gun[] inventory = { new Pistol(), new heavyGun() , new rifle()};
+
+            foreach (Gun item in inventory)
+            {
+                player.ShowInfo(item);
+                player.Shoot(item);
+            }
             Console.Read();
         }
     }
