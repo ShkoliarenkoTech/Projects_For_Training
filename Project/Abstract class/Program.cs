@@ -7,6 +7,16 @@ using System.Threading.Tasks;
 namespace Abstract_class
 {
 
+    interface IPrint
+    {
+        string Print();
+    }
+    interface IGet
+    {
+        void GetSmth(IPrint print);
+    }
+
+
     abstract class Gun
     {
         public abstract void Shoot();
@@ -17,8 +27,18 @@ namespace Abstract_class
         }
     }
 
+    class TestClass : IGet
+    {
+
+        void IGet.GetSmth(IPrint print)
+        {
+            Console.WriteLine(print.Print());
+        }
+    }
+
     class Player
     {
+
         public void Shoot(Gun gun)
         {
             gun.Shoot();
@@ -60,6 +80,7 @@ namespace Abstract_class
     {
         static void Main(string[] args)
         {
+            
             Player player = new Player();
 
             Gun[] inventory = { new Pistol(), new heavyGun() , new rifle()};
