@@ -1,7 +1,7 @@
 D:\GitHub\Projects\Projects_For_Training\Project\Abstract class\bin\Debug\Abstract class.exe.config
 D:\GitHub\Projects\Projects_For_Training\Project\Abstract class\bin\Debug\Abstract class.exe
 D:\GitHub\Projects\Projects_For_Training\Project\Abstract class\bin\Debug\Abstract class.pdb
-D:\GitHub\Projects\Projects_For_Training\Project\Abstract class\obj\Debug\Abstract class.csprojAssemblyReference.cache
 D:\GitHub\Projects\Projects_For_Training\Project\Abstract class\obj\Debug\Abstract class.csproj.CoreCompileInputs.cache
 D:\GitHub\Projects\Projects_For_Training\Project\Abstract class\obj\Debug\Abstract class.exe
 D:\GitHub\Projects\Projects_For_Training\Project\Abstract class\obj\Debug\Abstract class.pdb
+D:\GitHub\Projects\Projects_For_Training\Project\Abstract class\obj\Debug\Abstract class.csprojAssemblyReference.cache

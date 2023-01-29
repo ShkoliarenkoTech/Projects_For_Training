@@ -7,74 +7,106 @@ using System.Threading.Tasks;
 namespace Abstract_class
 {
 
-    interface IPrint
+    interface IHasInfo
     {
-        string Print();
-    }
-    interface IGet
-    {
-        void GetSmth(IPrint print);
+        void ShowInfo();
     }
 
-
-    abstract class Gun
+    interface IThrowingWeapon:IWeapon
     {
-        public abstract void Shoot();
+        void Throw();
+    }
 
-        public void GetInfo()
+    interface IWeapon
+    {
+        void Fire();
+    }
+
+    abstract class Weapon : IHasInfo, IWeapon
+    {
+        public abstract void Fire();
+
+        public void ShowInfo()
         {
-            Console.WriteLine(GetType().Name);
+            Console.WriteLine($"{GetType().Name}");
         }
     }
 
-    class TestClass : IGet
-    {
-
-        void IGet.GetSmth(IPrint print)
-        {
-            Console.WriteLine(print.Print());
-        }
-    }
 
     class Player
     {
-
-        public void Shoot(Gun gun)
+        public void Melee(IThrowingWeapon throwingWeapon)
         {
-            gun.Shoot();
+            throwingWeapon.Throw();
         }
 
-        public void ShowInfo(Gun gun)
+        public void Fire(IWeapon weapon)
         {
-            gun.GetInfo();
+            weapon.Fire();
         }
 
-    }
+        public void CheckInfo(IHasInfo hasInfo)
+        {
+            hasInfo.ShowInfo();
+        }
 
-    class Pistol : Gun
+        class Gun: IWeapon
     {
-        public override void Shoot()
+        //public override void Fire()
+
+        public void Fire()
         {
-            Console.WriteLine("It's pistol");
+            Console.WriteLine("Fire!");
+            //ShowInfo();
         }
     }
 
-    class rifle : Gun
+    }
+
+    class Pistol : IWeapon //, IHasInfo
     {
-        public override void Shoot()
+
+        //public override void Fire()
+        public void Fire()
         {
-            Console.WriteLine("It's rifle");
+            Console.WriteLine($"{GetType().Name}: Its a pistol");
         }
+
     }
 
-    class heavyGun : Gun
+    class rifle : IWeapon    //, IHasInfo
     {
-        public override void Shoot()
+       // public override void Fire()
+       public void Fire()
         {
-            Console.WriteLine("It's heavy gun");
+            Console.WriteLine($"{GetType().Name}: Its a rifle");
+        }
+
+    }
+
+
+    class heavyGun : IWeapon
+    {
+       // public override void Fire()
+
+        public void Fire()
+        {
+            Console.WriteLine($"{GetType().Name}: Its a heavy gun");
         }
     }
 
+    class Knife : IThrowingWeapon
+    {
+        // public override void Fire()
+        public void Fire()
+        {
+            Console.WriteLine($"{GetType().Name} ");
+        }
+        public void Throw()
+        {
+            Console.WriteLine("It's been throwned");
+        }
+    }
 
     class Program
     {
@@ -83,13 +115,18 @@ namespace Abstract_class
             
             Player player = new Player();
 
-            Gun[] inventory = { new Pistol(), new heavyGun() , new rifle()};
+            IWeapon[] inventory = { new Pistol(), new heavyGun() , new rifle(), new Knife()};
 
-            foreach (Gun item in inventory)
+            foreach (IWeapon item in inventory)
             {
-                player.ShowInfo(item);
-                player.Shoot(item);
+                //player.CheckInfo(item);
+                
+                player.Fire(item);
+
+                Console.WriteLine();
             }
+            player.Melee(new Knife());
+
             Console.Read();
         }
     }
