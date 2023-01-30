@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Words base, as, is", "Words
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract class", "Abstract class\Abstract class.csproj", "{17473B25-AB4A-462D-99CE-953FA919D85E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{4DFE8E7C-0748-478C-8FCD-A25FAFDDBBBA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{17473B25-AB4A-462D-99CE-953FA919D85E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17473B25-AB4A-462D-99CE-953FA919D85E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17473B25-AB4A-462D-99CE-953FA919D85E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DFE8E7C-0748-478C-8FCD-A25FAFDDBBBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DFE8E7C-0748-478C-8FCD-A25FAFDDBBBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DFE8E7C-0748-478C-8FCD-A25FAFDDBBBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DFE8E7C-0748-478C-8FCD-A25FAFDDBBBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
