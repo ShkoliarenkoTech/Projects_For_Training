@@ -1,0 +1,7 @@
+D:\GitHub\Projects\Projects_For_Training\Project\Generic\obj\Debug\Generic.csprojAssemblyReference.cache
+D:\GitHub\Projects\Projects_For_Training\Project\Generic\obj\Debug\Generic.csproj.CoreCompileInputs.cache
+D:\GitHub\Projects\Projects_For_Training\Project\Generic\bin\Debug\Generic.exe.config
+D:\GitHub\Projects\Projects_For_Training\Project\Generic\bin\Debug\Generic.exe
+D:\GitHub\Projects\Projects_For_Training\Project\Generic\bin\Debug\Generic.pdb
+D:\GitHub\Projects\Projects_For_Training\Project\Generic\obj\Debug\Generic.exe
+D:\GitHub\Projects\Projects_For_Training\Project\Generic\obj\Debug\Generic.pdb
